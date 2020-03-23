@@ -11,7 +11,7 @@
   </a>
 </p>
 
-> Project Be The Hero was made using Javascritp Stack(Node.js, React, React Native)
+> Project Be The Hero was made using Javascritp Stack(Node.js, React, React Native) in OmniStack's Week 11
 
 -----
 
