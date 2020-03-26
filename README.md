@@ -15,6 +15,10 @@
 
 -----
 
+<h2 align="center">
+  🚀 Semana Omnistack 11.0
+</h2>
+
 ## Run the API local
 1. Install the dependencies:      
 [Node.js](https://nodejs.org/en/)
